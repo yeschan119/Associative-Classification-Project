@@ -87,6 +87,8 @@
         entropy += -(p[i] * np.log2(p[i]))
     return entropy
     ```
- ## 모델 평가 
-    <img width="793" alt="스크린샷 2021-12-27 오후 11 38 48" src="https://user-images.githubusercontent.com/83147205/147481826-b7a078cd-da6c-4dd7-a918-7b0944460565.png">
+ ## 모델 평가 결과
+ 
+   <img width="793" alt="스크린샷 2021-12-27 오후 11 38 48" src="https://user-images.githubusercontent.com/83147205/147481887-c9ba94a7-e37e-4245-835f-bd79fee7b4c0.png">
+
 
